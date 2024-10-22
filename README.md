@@ -35,8 +35,8 @@
 
 ### Congratulations you found me
 
-- 👨‍💻 I’m currently working on web development technologies like `Spring Boot`, `Angular`, `React` etc.
-- 📚 I’m currently learning **JAVA , REACT** 😅
+- 👨‍💻 I’m currently working on 2D Platformer Game Using`Unity`.
+- 📚 I’m currently learning **REACT** 😅
 - 💪🏼 Future Goals: Learn more technologies, Never stop creating new ideas.
 
 
