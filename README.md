@@ -35,8 +35,8 @@
 
 ### Congratulations you found me
 
-- 👨‍💻 I’m currently working on 2D Platformer Game Using`Unity`.
-- 📚 I’m currently learning **Js** 😅
+- 👨‍💻 I'm currently working on 2D Platformer Game Using`Unity`.
+- 📚 I'm currently learning **Js** 😅
 - 💪🏼 Future Goals: Learn more technologies, Never stop creating new ideas.
 
 
@@ -135,10 +135,10 @@
  <img align="right"  src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="20" height="20" > 
  </a>
   <a href="https://github.com/iitzartg"> 
- <img align="left" src="./images/good-times.svg" width="10%">   
+ <img align="left" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="10%">   
 </a>
 <a href="https://github.com/iitzartg"> 
- <img align="right" src="./images/good-times.svg" width="10%">   
+ <img align="right" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="10%">   
 </a>
 <!--Hobbies Section-->
 <a href="https://github.com/iitzartg">
@@ -189,9 +189,6 @@
 
 <br/>
  
-<a href="https://github.com/iitzartg"> 
- <img align="center" src="" width="60%" >   
-</a>
 </details>
 <a href="https://github.com/iitzartg">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
@@ -203,5 +200,5 @@
 <a href="https://github.com/iitzartg"> 
   <img width="30" align ="right"  src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
  <p align="center">
- <a href="https://github.com/iitzartg"><img src="https://github.com/user-attachments/assets/bb0eb1a9-234a-43a7-9bd6-ebbade6712a3" align="center" /> </a>
+ <a href="https://github.com/iitzartg"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" align="center" alt="Cat coding gif"/> </a>
 </p>
